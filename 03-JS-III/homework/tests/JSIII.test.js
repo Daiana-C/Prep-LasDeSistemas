@@ -1,5 +1,6 @@
 /* eslint-disable no-undef */
 const {
+  colors,
   obtenerMayor,
   mayoriaDeEdad,
   conection,
